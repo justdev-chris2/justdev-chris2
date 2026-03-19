@@ -1,4 +1,5 @@
 # hey, i'm justdev-chris2 (my alt) 👋
+[![chris stats](https://img.shields.io/badge/NekoBeats_v2%is%the-best!!-8A2BE2)](https://github.com/justdev-chris)
 
 
 **a catboy developer** • he/him • aromantic  
